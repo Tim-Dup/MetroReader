@@ -1,0 +1,2 @@
+d:\timo\mes documents\visual studio 2015\Projects\MetroReader\MetroReader\MetroReader.UWP\MetroReader.UWP.csproj;x86
+d:\timo\mes documents\visual studio 2015\Projects\MetroReader\MetroReader\MetroReader\MetroReader.csproj;neutral
